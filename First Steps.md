@@ -13,7 +13,7 @@
 <p>More specifically, the game takes place in the country of <strong>Landskein</strong>, a place that is 100% fictitious. You will receive information about the place according to your background. For now, it suffices to say that <strong>Landskein</strong> is a country in the Global South, in which many NGOs, Humanitarian Organisations and International Organisations are operating.</p>
 <h2 id="and-how-do-you-play">And how do you play?</h2>
 <p><img src="https://media.giphy.com/media/uTn16N0kybXX2/giphy.gif" alt="Alt Text"></p>
-<p>I will let player figure out how to play during the game itself. Partially this is to set the scene, and partially because I am still testing some mechanics.</p>
+<p>I will let each player figure out how to play during the game itself. Partially this is to set the scene, and partially because I am still testing some mechanics.</p>
 <p><strong>However</strong>, there is one important thing you should know:</p>
 <p>RPG stands for <strong>ROLE</strong> Playing Game. This means players will have to impersonate a role. That is the main – and only – criteria to define a good RPG player.</p>
 <h2 id="so-what-do-you-have-to-do-now">So, what do you have to do now?</h2>
